@@ -1,3 +1,5 @@
+# 不再维护，建议使用[music_tag_tool](https://github.com/backtracker/music_tag_tool)   --2024年12月31日
+
 # 音乐文件Tag清洗程序
 
 
